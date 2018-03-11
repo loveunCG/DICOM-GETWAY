@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dicom datetime="20180311105839+0900">
+<!--Send Query Request using 1.2.840.10008.5.1.4.1.2.2.1/-->
+<request qrim='1.2.840.10008.5.1.4.1.2.2.1'>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">SERIES</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="0"></attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="0"></attr>
+</request>
+<!--Query Response #1:-->
+<response number='1'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">SERIES</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.27</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</response>
+<!--Query Response #2:-->
+<response number='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">SERIES</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</response>
+<!--Query Response #3:-->
+<response number='3'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">SERIES</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">SR</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.100</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="4">997</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</response>
+<!--Send Query Request #1/3 using 1.2.840.10008.5.1.4.1.2.2.1/-->
+<qrequest number='1' qrim='1.2.840.10008.5.1.4.1.2.2.1'>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="0"></attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="0"></attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.27</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="0"></attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="0"></attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="0"></attr>
+</qrequest>
+<!--Send Query Request #2/3 using 1.2.840.10008.5.1.4.1.2.2.1/-->
+<qrequest number='2' qrim='1.2.840.10008.5.1.4.1.2.2.1'>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="0"></attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="0"></attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="0"></attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="0"></attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="0"></attr>
+</qrequest>
+<!--Send Query Request #3/3 using 1.2.840.10008.5.1.4.1.2.2.1/-->
+<qrequest number='3' qrim='1.2.840.10008.5.1.4.1.2.2.1'>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="0"></attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="0"></attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="0"></attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.100</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="0"></attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="0"></attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="0"></attr>
+</qrequest>
+<!--Query Response #1 for Query Request #1/3:-->
+<qresponse number='1' qrequest='1'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.29.1</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="6">Scout</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.27</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #1 for Query Request #2/3:-->
+<qresponse number='1' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.66</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #2 for Query Request #2/3:-->
+<qresponse number='2' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.57</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">57</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #3 for Query Request #2/3:-->
+<qresponse number='3' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.56</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">56</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #4 for Query Request #2/3:-->
+<qresponse number='4' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.55</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">55</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #5 for Query Request #2/3:-->
+<qresponse number='5' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.54</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">54</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #6 for Query Request #2/3:-->
+<qresponse number='6' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.53</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">53</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #7 for Query Request #2/3:-->
+<qresponse number='7' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.52</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">52</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #8 for Query Request #2/3:-->
+<qresponse number='8' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.51</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">51</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #9 for Query Request #2/3:-->
+<qresponse number='9' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.50</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">50</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #10 for Query Request #2/3:-->
+<qresponse number='10' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.49</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">49</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #11 for Query Request #2/3:-->
+<qresponse number='11' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.48</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">48</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #12 for Query Request #2/3:-->
+<qresponse number='12' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.65</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">65</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #13 for Query Request #2/3:-->
+<qresponse number='13' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.47</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">47</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #14 for Query Request #2/3:-->
+<qresponse number='14' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.46</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">46</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #15 for Query Request #2/3:-->
+<qresponse number='15' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.45</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">45</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #16 for Query Request #2/3:-->
+<qresponse number='16' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.44</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">44</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #17 for Query Request #2/3:-->
+<qresponse number='17' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.43</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">43</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #18 for Query Request #2/3:-->
+<qresponse number='18' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.42</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">42</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #19 for Query Request #2/3:-->
+<qresponse number='19' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.41</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">41</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #20 for Query Request #2/3:-->
+<qresponse number='20' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.40</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">40</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #21 for Query Request #2/3:-->
+<qresponse number='21' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.39</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">39</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #22 for Query Request #2/3:-->
+<qresponse number='22' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.38</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">38</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #23 for Query Request #2/3:-->
+<qresponse number='23' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.64</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">64</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #24 for Query Request #2/3:-->
+<qresponse number='24' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.37</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">37</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #25 for Query Request #2/3:-->
+<qresponse number='25' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.36</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">36</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #26 for Query Request #2/3:-->
+<qresponse number='26' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.35</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">35</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #27 for Query Request #2/3:-->
+<qresponse number='27' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.34</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">34</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #28 for Query Request #2/3:-->
+<qresponse number='28' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.33</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">33</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #29 for Query Request #2/3:-->
+<qresponse number='29' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.32</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">32</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #30 for Query Request #2/3:-->
+<qresponse number='30' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.31</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">31</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #31 for Query Request #2/3:-->
+<qresponse number='31' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.30</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">30</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #32 for Query Request #2/3:-->
+<qresponse number='32' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.29</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">29</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #33 for Query Request #2/3:-->
+<qresponse number='33' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.28</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">28</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #34 for Query Request #2/3:-->
+<qresponse number='34' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.63</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">63</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #35 for Query Request #2/3:-->
+<qresponse number='35' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.27</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">27</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #36 for Query Request #2/3:-->
+<qresponse number='36' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.26</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">26</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #37 for Query Request #2/3:-->
+<qresponse number='37' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.25</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">25</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #38 for Query Request #2/3:-->
+<qresponse number='38' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.24</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">24</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #39 for Query Request #2/3:-->
+<qresponse number='39' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.23</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">23</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #40 for Query Request #2/3:-->
+<qresponse number='40' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.22</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">22</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #41 for Query Request #2/3:-->
+<qresponse number='41' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.21</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">21</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #42 for Query Request #2/3:-->
+<qresponse number='42' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.20</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">20</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #43 for Query Request #2/3:-->
+<qresponse number='43' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.19</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">19</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #44 for Query Request #2/3:-->
+<qresponse number='44' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.18</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">18</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #45 for Query Request #2/3:-->
+<qresponse number='45' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.62</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">62</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #46 for Query Request #2/3:-->
+<qresponse number='46' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.17</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">17</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #47 for Query Request #2/3:-->
+<qresponse number='47' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.16</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">16</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #48 for Query Request #2/3:-->
+<qresponse number='48' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.15</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">15</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #49 for Query Request #2/3:-->
+<qresponse number='49' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.14</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">14</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #50 for Query Request #2/3:-->
+<qresponse number='50' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.13</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">13</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #51 for Query Request #2/3:-->
+<qresponse number='51' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.12</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">12</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #52 for Query Request #2/3:-->
+<qresponse number='52' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.11</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">11</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #53 for Query Request #2/3:-->
+<qresponse number='53' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.10</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">10</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #54 for Query Request #2/3:-->
+<qresponse number='54' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.9</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">9</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #55 for Query Request #2/3:-->
+<qresponse number='55' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.8</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">8</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #56 for Query Request #2/3:-->
+<qresponse number='56' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.61</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">61</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #57 for Query Request #2/3:-->
+<qresponse number='57' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.7</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">7</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #58 for Query Request #2/3:-->
+<qresponse number='58' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.6</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">6</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #59 for Query Request #2/3:-->
+<qresponse number='59' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.5</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">5</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #60 for Query Request #2/3:-->
+<qresponse number='60' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.4</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">4</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #61 for Query Request #2/3:-->
+<qresponse number='61' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.3</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">3</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #62 for Query Request #2/3:-->
+<qresponse number='62' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.2</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #63 for Query Request #2/3:-->
+<qresponse number='63' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.32.1</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #64 for Query Request #2/3:-->
+<qresponse number='64' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.60</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">60</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #65 for Query Request #2/3:-->
+<qresponse number='65' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.59</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">59</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #66 for Query Request #2/3:-->
+<qresponse number='66' qrequest='2'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="26">1.2.840.10008.5.1.4.1.1.2</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="54">1.2.840.113619.2.334.3.604640760.300.1432000271.32.58</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">CT</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="4">5mm</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.30</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="2">2</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">58</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">66</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+<!--Query Response #1 for Query Request #3/3:-->
+<qresponse number='1' qrequest='3'>
+<!--undefined-->
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<!--undefined-->
+<attr tag="00080016" vr="UI" len="30">1.2.840.10008.5.1.4.1.1.88.22</attr>
+<!--undefined-->
+<attr tag="00080018" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.101</attr>
+<!--undefined-->
+<attr tag="00080052" vr="CS" len="6">IMAGE</attr>
+<!--undefined-->
+<attr tag="00080054" vr="AE" len="8">DCM4CHEE</attr>
+<!--undefined-->
+<attr tag="00080056" vr="CS" len="6">ONLINE</attr>
+<!--undefined-->
+<attr tag="00080060" vr="CS" len="2">SR</attr>
+<!--undefined-->
+<attr tag="0008103E" vr="LO" len="12">Dose Record</attr>
+<!--undefined-->
+<attr tag="0020000D" vr="UI" len="50">1.2.840.113619.2.334.3.604640760.300.1432000271.25</attr>
+<!--undefined-->
+<attr tag="0020000E" vr="UI" len="52">1.2.840.113619.2.334.3.604640760.300.1432000271.100</attr>
+<!--undefined-->
+<attr tag="00200011" vr="IS" len="4">997</attr>
+<!--undefined-->
+<attr tag="00200013" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00201209" vr="IS" len="2">1</attr>
+<!--undefined-->
+<attr tag="00880130" vr="SH" len="0"></attr>
+<!--undefined-->
+<attr tag="00880140" vr="UI" len="0"></attr>
+</qresponse>
+</dicom>
