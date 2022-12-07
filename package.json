@@ -26,7 +26,7 @@
     "cors": "^2.8.4",
     "dotenv": "^4.0.0",
     "download": "^6.2.5",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "foreach": "^2.0.5",
     "iconv": "^2.3.0",
     "iconv-js": "^0.3.5",
